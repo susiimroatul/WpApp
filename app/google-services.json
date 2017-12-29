@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "724284479561",
+    "firebase_url": "https://sesuko-6cc4a.firebaseio.com",
+    "project_id": "sesuko-6cc4a",
+    "storage_bucket": "sesuko-6cc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724284479561:android:b4ab99b6baa4c6db",
+        "android_client_info": {
+          "package_name": "com.app.wordpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724284479561-a96c6bk2nsmte1isd8iaqa9am452lhe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTV_7hLCABso78azmCrFNfvAh8S_ip3W8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
